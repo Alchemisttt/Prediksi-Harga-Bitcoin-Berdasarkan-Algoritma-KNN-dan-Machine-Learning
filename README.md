@@ -1,16 +1,15 @@
 # Prediksi Harga Bitcoin Berdasarkan Algoritma KNN dan Machine Learning
 
-
-### Data Source
-
-Data csv berada pada folder "Data/Bitcoin Historical Data Daily 5yr.csv", data tersebut didapatkan dari investing.com [Download](https://www.investing.com/crypto/bitcoin/historical-data)
-
 ### Tools 
 
    - Python3.12 [Download](https://www.python.org/downloads/)
    - Jupiter Notebooks [Download](https://jupyter.org/)
    - Anaconda Navigator [Download](https://www.anaconda.com/download)
    - Chrome [Download](https://www.google.com/intl/id/chrome/browser-tools/)
+
+### Data Source
+
+Data csv berada pada folder "Data/Bitcoin Historical Data Daily 5yr.csv", data tersebut didapatkan dari investing.com [Download](https://www.investing.com/crypto/bitcoin/historical-data)
 
 ### Data Loading
 
@@ -50,6 +49,20 @@ Tahap model training bertujuan untuk melatih model KNN menggunakan training data
 Proses training ini penting untuk memastikan bahwa model KNN dapat menghasilkan prediksi yang akurat dan dapat diandalkan berdasarkan data historis yang telah disediakan.
 
 
+### Final Result
+
+   - Harga Bitcoin 2019 - 2024
+<img width="975" alt="Screenshot 2024-07-02 at 17 24 58" src="https://github.com/Alchemisttt/Prediksi-Harga-Bitcoin-Berdasarkan-Algoritma-KNN-dan-Machine-Learning/assets/138303854/b3b771ad-9a6b-4224-b01b-f9ae0124131e">
 
 
+   - Hasil Pengujian Model Pelatihan
+<img width="975" alt="Screenshot 2024-07-02 at 17 25 20" src="https://github.com/Alchemisttt/Prediksi-Harga-Bitcoin-Berdasarkan-Algoritma-KNN-dan-Machine-Learning/assets/138303854/0c0ea726-7882-4e31-85a5-51861b173846">
+
+
+   - Hasil Regresi KNN
+<img width="631" alt="Screenshot 2024-07-02 at 17 25 35" src="https://github.com/Alchemisttt/Prediksi-Harga-Bitcoin-Berdasarkan-Algoritma-KNN-dan-Machine-Learning/assets/138303854/ef47538e-fa0e-4f3c-b43d-59bd16402ea3">
+
+
+   - Correlation Heatmap
+<img width="838" alt="Screenshot 2024-07-02 at 17 25 55" src="https://github.com/Alchemisttt/Prediksi-Harga-Bitcoin-Berdasarkan-Algoritma-KNN-dan-Machine-Learning/assets/138303854/08f03393-8153-4c14-9dc7-80c8b9970ee0">
 
